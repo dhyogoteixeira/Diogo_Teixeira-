@@ -70,7 +70,8 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/dhyogoteixeira/dhyogoteixeira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dhyogoteixeira/dhyogoteixeira/output/github-contribution-grid-snake.svg
+)
 
 </div>
 
