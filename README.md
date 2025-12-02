@@ -66,15 +66,12 @@
 
 ## 🐍 Jogo da Cobrinha — Snake Game no Perfil
 
-> 🔥 Esta animação mostra a cobrinha comendo seus **commits**, igual aos perfis mais famosos!
+> 🔥 A cobrinha come seus commits em tempo real!
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/dhyogoteixeira/dhyogoteixeira/output/github-contribution-grid-snake.svg
-)
+![Snake animation](https://raw.githubusercontent.com/dhyogoteixeira/dhyogoteixeira/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
 
 ## 🏁 Obrigado pela visita! 😄
